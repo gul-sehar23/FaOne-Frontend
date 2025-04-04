@@ -52,7 +52,7 @@ const ContactForm = () => {
               </div>
               <div className="ml-4">
                 <h5 className="font-bold text-lg">Call Us Anytime</h5>
-                <p className="text-gray-600 text-sm">+923 458 662 825</p>
+                <p className="text-gray-600 text-sm">+92 345 8662825</p>
               </div>
             </div>
 
