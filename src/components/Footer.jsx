@@ -87,8 +87,8 @@ const Footer = () => {
           <h3 className="font-semibold uppercase">Contact</h3>
           <ul className="mt-2 space-y-3">
             {[
-              { icon: <FaPhone />, text: "(+923) 458 662 825", link: "tel:+923458662825" },
-              { icon: <FaPhone />, text: "+923 030 869 985", link: "tel:+923030869985" },
+              { icon: <FaPhone />, text: "+92 345 8662825", link: "tel:+923458662825" },
+              { icon: <FaPhone />, text: "+92 303 0869985", link: "tel:+923030869985" },
               { icon: <FaEnvelope />, text: "info@faonefoods.com", link: "mailto:info@faonefoods.com" },
               { icon: <FaMapMarkerAlt />, text: "238 Lalazar Commercial Market Riwind Road Near Thokar NiazBaig Lahore" },
             ].map(({ icon, text, link }, index) => (
