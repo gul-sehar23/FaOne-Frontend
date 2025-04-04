@@ -90,7 +90,7 @@ const Footer = () => {
               { icon: <FaPhone />, text: "(+923) 458 662 825", link: "tel:+923458662825" },
               { icon: <FaPhone />, text: "+923 030 869 985", link: "tel:+923030869985" },
               { icon: <FaEnvelope />, text: "info@faonefoods.com", link: "mailto:info@faonefoods.com" },
-              { icon: <FaMapMarkerAlt />, text: "238 Lalazar Commercial Market, Lahore" },
+              { icon: <FaMapMarkerAlt />, text: "238 Lalazar Commercial Market Riwind Road Near Thokar NiazBaig Lahore" },
             ].map(({ icon, text, link }, index) => (
               <li key={index} className="flex items-center space-x-2">
                 <span className="p-2 bg-[#ddb75e] rounded-full transition transform hover:-translate-y-1 cursor-pointer">
